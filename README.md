@@ -21,8 +21,8 @@ Please read it carefully before starting!
    If you do not accept the invitation, you may see a **“Repository Access Issue”** message:
    <img width="1345" height="639" alt="image" src="https://github.com/user-attachments/assets/dde99b43-0604-49e3-8017-b1800d6900ee" />
 
-4. After accepting, you will get a **private GitHub repository** for this assignment.
-   - This repo is only visible to you and the instructors.
+4. After accepting, you will get a **private GitHub repository** for this assignment under our class organization.
+   - This repo is only visible to you and the instructors/TAs.
    - Submission is done by pushing commits to it.
    - You can check the assignment deadline in the repo page.
 
