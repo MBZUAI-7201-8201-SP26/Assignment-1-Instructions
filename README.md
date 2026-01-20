@@ -1,5 +1,12 @@
 ## Assignment (Lab) 1: What to Submit + Cross-Validation
 
+### Part 0: Join the GitHub Classroom
+* Join by accepting the invitation here: https://classroom.github.com/a/6c16an45
+* You will be prompted to link your GitHub account to your name:
+  <img width="686" height="392" alt="image" src="https://github.com/user-attachments/assets/603dd71c-d204-4905-8cca-6cb879bab58f" />
+
+* An invitation will be sent to the email of your GitHub Account. Please accept the invitation (make sure you are on the correct account) so you can access your private repo for this assignment, otherwise it will show "Repository Access Issue":
+
 ### Part 1: Do the Lab (your repo)
 
 * Read the Assignment (Lab) 1 document, and complete the exercises.
