@@ -1,4 +1,4 @@
-## Assignment (Lab) 1: What to Submit + Cross-Validation
+## Assignment (Lab) 1: What to Submit + Cross-Validation (Total: 35 Points)
 
 This document explains:
 - how to join the GitHub Classroom,
