@@ -1,52 +1,81 @@
 ## Assignment (Lab) 1: What to Submit + Cross-Validation
 
-### Part 0: Join the GitHub Classroom
-* Join by accepting the invitation here: https://classroom.github.com/a/6c16an45
-* You will be prompted to link your GitHub account to your name:
-  <img width="686" height="392" alt="image" src="https://github.com/user-attachments/assets/603dd71c-d204-4905-8cca-6cb879bab58f" />
+This document explains:
+- how to join the GitHub Classroom,
+- what you need to complete for Lab 1, and
+- how the cross-validation (peer check) works.
 
-* An invitation will be sent to the email of your GitHub Account. Please accept the invitation (make sure you are on the correct account) so you can access your private repo for this assignment, otherwise it will show "Repository Access Issue":
+Please read it carefully before starting!
 
-### Part 1: Do the Lab (your repo)
+---
 
-* Read the Assignment (Lab) 1 document, and complete the exercises.
-* Save evidence that things ran (terminal output, logs, screenshots, etc.).
-* **The two important deliverables are:**
+## Part 0: Join the GitHub Classroom
 
-  * **Exercise 1:** tiled matmul on general CPU
-  * **Exercise 7:** tiled matmul on Tenstorrent
-* Commit/push your **source code** for both into your GitHub Classroom Repo of Assignment 1
-* The other exercises are mainly there to teach you how to run/debug/profile. Familiarize yourself with them.
-* Write a simple but clear `README.md` that lets someone else reproduce your results.
+1. Join the assignment by accepting the invitation here: https://classroom.github.com/a/6c16an45 
 
-### Part 2: Cross-Validation (check another group)
+2. You will be asked to link your GitHub account to your name:
+   <img width="686" height="392" alt="image" src="https://github.com/user-attachments/assets/603dd71c-d204-4905-8cca-6cb879bab58f" />
 
-You’ll be randomly assigned another group’s repos.
+3. GitHub will send an invitation email to the address linked to your GitHub account. Make sure you log into the **correct GitHub account** and accept the invitation from that email.
 
-* Read their README.
-* Try to follow it exactly and reproduce their results.
-* Check whether your output matches what they claim.
-* If something doesn’t match, note:
-  
-  * what step failed / what seems wrong
-  * any bugs or missing steps
-* Save your reproduction evidence (logs, screenshots, notes) and include it in your submission.
+   If you do not accept the invitation, you may see a **“Repository Access Issue”** message:
+   <img width="1345" height="639" alt="image" src="https://github.com/user-attachments/assets/dde99b43-0604-49e3-8017-b1800d6900ee" />
 
+4. After accepting, you will get a **private GitHub repository** for this assignment.
+   - This repo is only visible to you and the instructors.
+   - Submission is done by pushing commits to it.
+   - You can check the assignment deadline in the repo page.
 
-## Lab 1 Submission Checklist
+---
 
-### Part 1: Your Lab 
+## Part 1: Do the Lab
 
-* ⬜ Completed **Exercise 1** (CPU tiled matrix multiplication)
-* ⬜ Completed **Exercise 7** (Tenstorrent / TT-Metalium tiled matrix multiplication)
-* ⬜ Saved run evidence (logs, terminal output, screenshots, etc.)
-* ⬜ CPU tiled matmul matches the reference implementation
-* ⬜ Tenstorrent matmul is matches the reference implementation
-* ⬜ Instructions to reproduce results from scratch
-* ⬜ Efforts are committed and pushed to your GitHub Classroom Repo
+1. Read the Lab 1 instructions here:
+   https://docs.tenstorrent.com/tt-metal/latest/tt-metalium/tt_metal/labs/matmul/lab1/lab1.html
+
+2. Complete the exercises by following the instructions in the lab document.
+
+3. Save evidence that your code runs correctly, such as terminal outputs, logs, screenshots etc.
+
+4. You will need to submit your source codes for the two following exercises particularly:
+   - **Exercise 1:** Tiled matrix multiplication on a general CPU
+   - **Exercise 7:** Tiled matrix multiplication on Tenstorrent
+
+5. Commit and push your **source code** for the following two exercises to your GitHub Classroom repository, along with the evidences.
+
+6. Write a clear and simple `README.md` that explains how to reproduce your results using your code (important for Part 2).
+
+---
+
+## Part 2: Cross-Validation (Peer Review)
+
+You will be randomly assigned with another classmate (details will be announced later).
+
+For cross-validation, you will:
+
+1. Grant access to the classmate you are assigned to.
+1. Follow your assigned classmate’s `README.md` and try to reproduce their results.
+1. Check whether your output matches what they claim.
+1. Note down if something does not work or if the results does not match with the evidence provided.
+1. Save evidence of your cross validation attempts and push it into your own repo.
+1. Feel free to use the checklist below!
+2. 
+---
+
+## Lab 1 Checklist
+
+### Part 1: Your Lab
+
+- ⬜ Completed **Exercise 1** (CPU tiled matrix multiplication)
+- ⬜ Completed **Exercise 7** (Tenstorrent tiled matrix multiplication)
+- ⬜ Saved run evidence (logs, terminal output, screenshots, etc.)
+- ⬜ CPU tiled matmul matches the reference implementation
+- ⬜ Tenstorrent tiled matmul matches the reference implementation
+- ⬜ Clear instructions to reproduce your results
+- ⬜ All work committed and pushed to your GitHub Classroom repository
 
 ### Part 2: Cross-Validation
 
-* ⬜ Read and follow the assigned group’s README to reproduce their results
-* ⬜ Able to reproduce and verify their results
-* ⬜ Documented your reproduction attempt
+- ⬜ Read and followed the assigned classmate’s `README.md`
+- ⬜ Successfully reproduced and verified their results
+- ⬜ Documented and pushed your reproduction attempts
