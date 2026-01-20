@@ -33,6 +33,8 @@ Please read it carefully before starting!
 1. Read the Lab 1 instructions here:
    https://docs.tenstorrent.com/tt-metal/latest/tt-metalium/tt_metal/labs/matmul/lab1/lab1.html
 
+(Some figures may not display properly, click on it to show the full figure.)
+
 2. Complete the exercises by following the instructions in the lab document.
 
 3. Save evidence that your code runs correctly, such as terminal outputs, logs, screenshots etc.
