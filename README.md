@@ -59,7 +59,7 @@ For cross-validation, you will:
 1. Note down if something does not work or if the results does not match with the evidence provided.
 1. Save evidence of your cross validation attempts and push it into your own repo.
 1. Feel free to use the checklist below!
-2. 
+   
 ---
 
 ## Lab 1 Checklist
