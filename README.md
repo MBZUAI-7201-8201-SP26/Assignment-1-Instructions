@@ -11,7 +11,7 @@ Please read it carefully before starting!
 
 ## Part 0: Join the GitHub Classroom
 
-1. Join the assignment by accepting the invitation here: https://classroom.github.com/a/6c16an45 
+1. Join the assignment by accepting the invitation here: https://classroom.github.com/a/dUXw7fch  
 
 2. You will be asked to link your GitHub account to your name:
    <img width="686" height="392" alt="image" src="https://github.com/user-attachments/assets/603dd71c-d204-4905-8cca-6cb879bab58f" />
