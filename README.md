@@ -32,8 +32,7 @@ Please read it carefully before starting!
 
 1. Read the Lab 1 instructions here:
    https://docs.tenstorrent.com/tt-metal/latest/tt-metalium/tt_metal/labs/matmul/lab1/lab1.html
-
-(Some figures may not display properly, click on it to show the full figure.)
+   - Some figures may not display properly, click on it to show the full figure.
 
 2. Complete the exercises by following the instructions in the lab document.
 
@@ -43,7 +42,7 @@ Please read it carefully before starting!
    - **Exercise 1:** Tiled matrix multiplication on a general CPU
    - **Exercise 7:** Tiled matrix multiplication on Tenstorrent
 
-5. Commit and push your **source code** for the following two exercises to your GitHub Classroom repository, along with the evidences.
+5. Commit and push your **source code** for the exercises to your GitHub Classroom repository, along with the evidences.
 
 6. Write a clear and simple `README.md` that explains how to reproduce your results using your code (important for Part 2).
 
