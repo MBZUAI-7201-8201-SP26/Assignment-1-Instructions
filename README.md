@@ -13,7 +13,7 @@ Please read it carefully before starting!
 
 1. Join the assignment by accepting the invitation here: https://classroom.github.com/a/dUXw7fch  
 
-2. You will be asked to link your GitHub account to your name:
+2. You will be asked to link your GitHub account to your name (You may encounter a **“Repository Access Issue”** error, check below):
    <img width="686" height="392" alt="image" src="https://github.com/user-attachments/assets/603dd71c-d204-4905-8cca-6cb879bab58f" />
 
 3. GitHub will send an invitation email to the address linked to your GitHub account. Make sure you log into the **correct GitHub account** and accept the invitation from that email.
