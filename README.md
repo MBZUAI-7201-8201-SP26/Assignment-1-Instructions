@@ -1,4 +1,4 @@
-## Assignment (Lab) 1: What to Submit + Cross-Validation (Total: 35 Points)
+## Assignment (Lab) 1: What to Submit + Cross-Validation (Total: 50 Points)
 
 This document explains:
 - how to join the GitHub Classroom,
@@ -28,7 +28,7 @@ Please read it carefully before starting!
 
 ---
 
-## Part 1: Do the Lab (25 Points)
+## Part 1: Do the Lab (40 Points)
 
 1. Read the Lab 1 instructions here:
    https://docs.tenstorrent.com/tt-metal/latest/tt-metalium/tt_metal/labs/matmul/lab1/lab1.html
