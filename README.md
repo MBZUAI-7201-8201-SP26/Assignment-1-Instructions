@@ -28,7 +28,7 @@ Please read it carefully before starting!
 
 ---
 
-## Part 1: Do the Lab
+## Part 1: Do the Lab (25 Points)
 
 1. Read the Lab 1 instructions here:
    https://docs.tenstorrent.com/tt-metal/latest/tt-metalium/tt_metal/labs/matmul/lab1/lab1.html
@@ -47,7 +47,7 @@ Please read it carefully before starting!
 
 ---
 
-## Part 2: Cross-Validation (Peer Review)
+## Part 2: Cross-Validation (Peer Review) (10 Points)
 
 You will be randomly assigned with another classmate (details will be announced later).
 
