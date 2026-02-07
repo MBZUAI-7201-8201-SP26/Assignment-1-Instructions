@@ -57,6 +57,7 @@ For cross-validation, you will:
 1. Grant access to the classmate you are assigned to:
    - Go to your repo's settings, and click "Collaborators and teams"
    <img width="2174" height="558" alt="image" src="https://github.com/user-attachments/assets/33645f0c-8e4d-4cb3-9cc4-86a4c9e8f4a2" />
+   
    - Communicate with your assigned classmate and exchange your GitHub usernames
    - Add your assigned classmate as a collaborator to your repo
    <img width="1578" height="536" alt="image" src="https://github.com/user-attachments/assets/a726a57a-d863-411a-98e4-fee3317f5498" />
