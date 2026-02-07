@@ -63,7 +63,7 @@ For cross-validation, you will:
    
 ---
 
-## Lab 1 Checklist
+## Assignment 1 Checklist
 
 ### Part 1: Your Lab
 
@@ -79,4 +79,4 @@ For cross-validation, you will:
 
 - ⬜ Read and followed the assigned classmate’s `README.md`
 - ⬜ Successfully reproduced and verified their results
-- ⬜ Documented and pushed your reproduction attempts
+- ⬜ Documented and opened a pull request of your reproduction attempts
