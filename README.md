@@ -85,4 +85,4 @@ For cross-validation, you will:
 
 - ⬜ Read and followed the assigned classmate’s `README.md`
 - ⬜ Successfully reproduced and verified their results
-- ⬜ Documented and opened a pull request of your reproduction attempts
+- ⬜ Documented and opened an issue as directed above
