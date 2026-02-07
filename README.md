@@ -63,8 +63,7 @@ For cross-validation, you will:
    <img width="1578" height="536" alt="image" src="https://github.com/user-attachments/assets/a726a57a-d863-411a-98e4-fee3317f5498" />
 
 1. Follow your assigned classmate’s `README.md` and try to reproduce their results.
-1. Check whether your output matches what they claim.
-1. Note down if something does not work or if the results does not match with the evidence provided.
+1. Check whether your output matches what they claim. Note down if something does not work or if the results does not match with the evidence provided.
 1. Save evidence of your cross validation attempts and open an issue on your assigned classmate's repo with these evidences.
 1. Use the Part 1 checklist below in your opened issue and feel free to add comments or questions.
 1. You can also reply to the issue opened by your assignmed classmate in your own repo.
