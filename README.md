@@ -58,7 +58,7 @@ For cross-validation, you will:
 1. Follow your assigned classmate’s `README.md` and try to reproduce their results.
 1. Check whether your output matches what they claim.
 1. Note down if something does not work or if the results does not match with the evidence provided.
-1. Save evidence of your cross validation attempts and push it into your own repo.
+1. Save evidence of your cross validation attempts and open a pull request on your assigned classmate's repo.
 1. Feel free to use the checklist below!
    
 ---
