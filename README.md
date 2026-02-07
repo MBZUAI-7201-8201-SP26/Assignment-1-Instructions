@@ -54,12 +54,19 @@ You will be randomly assigned with another classmate (details will be announced 
 
 For cross-validation, you will:
 
-1. Grant access to the classmate you are assigned to.
+1. Grant access to the classmate you are assigned to:
+   - Go to your repo's settings, and click "Collaborators and teams"
+   <img width="2174" height="558" alt="image" src="https://github.com/user-attachments/assets/33645f0c-8e4d-4cb3-9cc4-86a4c9e8f4a2" />
+   - Communicate with your assigned classmate and exchange your GitHub usernames
+   - Add your assigned classmate as a collaborator to your repo
+   <img width="1578" height="536" alt="image" src="https://github.com/user-attachments/assets/a726a57a-d863-411a-98e4-fee3317f5498" />
+
 1. Follow your assigned classmate’s `README.md` and try to reproduce their results.
 1. Check whether your output matches what they claim.
 1. Note down if something does not work or if the results does not match with the evidence provided.
-1. Save evidence of your cross validation attempts and open a pull request on your assigned classmate's repo.
-1. Feel free to use the checklist below!
+1. Save evidence of your cross validation attempts and open an issue on your assigned classmate's repo with these evidences.
+1. Use the Part 1 checklist below in your opened issue and feel free to add comments or questions.
+1. You can also reply to the issue opened by your assignmed classmate in your own repo.
    
 ---
 
@@ -72,8 +79,7 @@ For cross-validation, you will:
 - ⬜ Saved run evidence (logs, terminal output, screenshots, etc.)
 - ⬜ CPU tiled matmul matches the reference implementation
 - ⬜ Tenstorrent tiled matmul matches the reference implementation
-- ⬜ Clear instructions to reproduce your results
-- ⬜ All work committed and pushed to your GitHub Classroom repository
+- ⬜ Clear instructions to reproduce results
 
 ### Part 2: Cross-Validation
 
